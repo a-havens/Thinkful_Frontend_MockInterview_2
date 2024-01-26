@@ -1,5 +1,5 @@
 >[!NOTE]
->For this code, you will need to complete the AlbumDetail.js file completely, and the return rendering of the App.js file.
+>For this interview, you will need to complete the AlbumDetail.js file completely, and the return rendering of the App.js file.
 
 
 # Front End Web Development Interview 2
