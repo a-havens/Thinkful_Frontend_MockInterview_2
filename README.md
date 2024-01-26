@@ -20,10 +20,10 @@ Functionality:
 
 ## Specific Instructions and helpful tips
 
-The albums have already been fetched in App.js. Write the code to display the albums in App.js and the album details go in AlbumDetail.js.
+- The albums have already been fetched in App.js. Write the code to display the albums in App.js and the album details go in AlbumDetail.js.
 
 
-Albums have this structure:
+- Albums have this structure:
 ```
 {
 
@@ -36,11 +36,11 @@ Albums have this structure:
   },
 ```
   
-The album should display the title
+- The album should display the title
 
-Each album should display the photo titles
+- Each album should display the photo titles
 
-A photo has the following structure:
+- A photo has the following structure:
 ```
   {
   
@@ -56,10 +56,10 @@ A photo has the following structure:
     
   }
   ```
-Each album should display up to 10 photos but not more
+- Each album should display up to 10 photos but not more
 
-An album's photos should only show after the album's title is clicked.
+- An album's photos should only show after the album's title is clicked.
 
-The alt attribute for each photo's <img> tag should be set to the photo's title.
+- The alt attribute for each photo's <img> tag should be set to the photo's title.
 
 All information can be displayed on the same page
